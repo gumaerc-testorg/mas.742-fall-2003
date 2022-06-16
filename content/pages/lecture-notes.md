@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The class covers a number of design related topics in lecture. Three
+  of the lecture notes from the class are presented here.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -12,11 +14,11 @@ The class covers a number of design related topics in lecture. Three of the lec
 Lecture Notes
 -------------
 
-Materials ([PDF]({{< baseurl >}}/resources/materials))
+Materials ({{% resource_link cf100bbe-678b-0509-daf2-187d042ba75a "PDF" %}})
 
-Tools ([PDF]({{< baseurl >}}/resources/tools))
+Tools ({{% resource_link 890f8ff4-7a23-fbba-e14e-a9ab99d13256 "PDF" %}})
 
-Sensors ([PDF]({{< baseurl >}}/resources/sensors))
+Sensors ({{% resource_link eabf602a-1e6d-7cf4-7b8f-dc09a9029d5e "PDF" %}})
 
 Lecture Topics
 --------------
