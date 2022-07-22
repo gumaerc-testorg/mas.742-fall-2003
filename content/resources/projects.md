@@ -7,6 +7,7 @@ file: /courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-en
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Compilation of Student Work
 uid: d1d36831-3624-bb1c-e0f5-e1994adfe25d
 ---
 A compilation of student work for the course. Projects made by: Philippe Block, Panagiotis Chatzitsakyris, Stylianos Dritsas, Aaron S.W. Greene, Jackie Lee, Marianthi Liapi, Christine Lin, Derek Rayside, and James Tichenor.
-

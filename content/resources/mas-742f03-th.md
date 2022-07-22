@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: A photo of a hand holding a corner of a keyboard.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Keyboard Prototype (thumbnail)
 uid: efaf47b5-8ba4-aa31-f3e0-87116d97efee
 ---
 A design for a keyboard prototype. (Image by Prof. Ted Selker.)
-
