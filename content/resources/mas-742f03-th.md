@@ -2,6 +2,7 @@
 content_type: resource
 description: A design for a keyboard prototype. (Image by Prof. Ted Selker.)
 file: /courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/efaf47b58ba4aa31f3e087116d97efee_mas-742f03-th.jpg
+file_size: 2877
 file_type: image/jpeg
 image_metadata:
   caption: "A design for a keyboard prototype.\_(Image by Prof. Ted Selker.)"

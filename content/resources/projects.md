@@ -4,6 +4,7 @@ description: 'A compilation of student work for the course. Projects made by: Ph
   Block, Panagiotis Chatzitsakyris, Stylianos Dritsas, Aaron S.W. Greene, Jackie Lee,
   Marianthi Liapi, Christine Lin, Derek Rayside, and James Tichenor.'
 file: /courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/d1d368313624bb1ce0f5e1994adfe25d_projects.pdf
+file_size: 1312903
 file_type: application/pdf
 learning_resource_types:
 - Projects
