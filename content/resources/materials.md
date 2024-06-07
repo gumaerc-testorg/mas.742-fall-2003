@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on materials used for industrial design.
 file: /courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/cf100bbe678b0509daf2187d042ba75a_materials.pdf
+file_size: 154030
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
