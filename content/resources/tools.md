@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on tools for fabrication.
-file: /courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/890f8ff47a23fbbae14ea9ab99d13256_tools.pdf
+file: /ol-ocw-studio-app/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/890f8ff47a23fbbae14ea9ab99d13256_tools.pdf
 file_size: 57299
 file_type: application/pdf
 learning_resource_types:
